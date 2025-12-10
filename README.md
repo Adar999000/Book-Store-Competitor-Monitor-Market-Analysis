@@ -75,6 +75,6 @@ You can run the analysis directly in the browser using Google Colab:
    # Open scraper_analysis.ipynb in Google Colab or VS Code
 
 ### 👤 Author
-Created by Adar Zilbershtein
-https://www.linkedin.com/in/adar-zilbershtein/
-Feel free to reach out for any questions or collaborations!
+* Created by Adar Zilbershtein
+* https://www.linkedin.com/in/adar-zilbershtein/
+* Feel free to reach out for any questions or collaborations!
